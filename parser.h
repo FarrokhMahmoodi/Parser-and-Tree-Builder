@@ -1,7 +1,3 @@
-//CS 4280
-//April 12, 2021
-//Farrokh Mahmoodi
-
 //This header file declares functions defined in parser.c for parsing contents of input file.
 
 #pragma once
