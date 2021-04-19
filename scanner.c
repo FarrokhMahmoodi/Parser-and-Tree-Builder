@@ -1,7 +1,3 @@
-//CS 4280
-//April 12, 2021
-//Farrokh Mahmoodi
-
 //This .c file tokenizes the input from input file or prints out a token scanner error
 
 #include <string.h>
