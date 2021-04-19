@@ -1,7 +1,3 @@
-//CS 4280
-//April 12, 2021
-//Farrokh Mahmoodi
-
 //This .c file defines functions in testscanner.h for FSA table + driver
 //where driver is the function "void testScan()"
 
