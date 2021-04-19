@@ -1,7 +1,3 @@
-//CS 4280
-//April 12, 2021
-//Farrokh Mahmoodi
-
 //This .c file has main function that takes in an input file and parses it to print out a parse tree or token scanner error
 
 #include <stdio.h>
